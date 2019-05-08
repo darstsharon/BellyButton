@@ -1,4 +1,4 @@
-certifi==2019.3.9
+certifi==2019.5.8
 click==6.7
 Flask==1.0.2
 Flask-Cors==3.0.6
